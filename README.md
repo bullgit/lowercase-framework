@@ -1,7 +1,7 @@
 lowercase-framework
 ===================
 
-the awesome **0.044kb** framework
+the awesome **0.039kb** framework
 
 -  cross-everything compatible
 -  ultrafast, slim and awesome
